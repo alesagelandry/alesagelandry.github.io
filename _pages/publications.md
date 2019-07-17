@@ -23,6 +23,7 @@ author_profile: true
 </ol>
 
 <h2>Conference papers</h2>
+
 <ol reversed='reversed'>
   <li> Rodrigo Henriquez, <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, Daniel Olivares and Matias Negrete-Pincetic. "Managing Load Contract Restrictions with Online Learning." <i>Signal and Information Processing (GlobalSIP), IEEE Global Conference on</i>, November 2017.</li>
     
@@ -38,7 +39,7 @@ author_profile: true
 
 <h2>Seminar and talks</h2>
 
-<ul>
+<ul style="list-style-type:circle;">
 
 <li><i>A Second-order Cone Model of AC--DC Transmission Expansion Planning</i>. Canadian Operational Research Society 61<sup>st</sup> Annual Conference, Saskatoon, SK. May 2019. </li>
 
