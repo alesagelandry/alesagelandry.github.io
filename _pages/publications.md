@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h6><b> Journal articles </b></h6>
+<h2><b> Journal articles </b></h2>
 
 <ol reversed='reversed'>
   
