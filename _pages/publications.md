@@ -43,4 +43,6 @@ author_profile: true
 
 <li><i>A Second-order Cone Model of AC--DC Transmission Expansion Planning</i>. Canadian Operational Research Society 61<sup>st</sup> Annual Conference, Saskatoon, SK. May 2019. </li>
 
+<li><i>Online Convex Optimization for Demand Response in Power Systems</i>. Conference on Information Sciences and Systems, Johns Hopkins University. Baltimore, MD, March 2019. </li>
+
 </ul>  
