@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<b> Journal articles </b>
+
 <ol reversed='reversed'>
   
 <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "A Second-order Cone Model of Transmission Planning with Alternating and Direct Current Lines." <i>European Journal of Operational Research</i>. Under review, February 2019. </li>  
