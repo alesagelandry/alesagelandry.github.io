@@ -16,7 +16,7 @@ author_profile: true
 
   <li><b>Antoine Lesage-Landry</b>, Iman Shames and Joshua A. Taylor. "Predictive Online Convex Optimization." <i>Automatica</i>. Under review, September 2018.</li>
 
-  <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "Setpoint Tracking with Partially Observed Loads." <i>Power Systems, IEEE Transactions on</i>, 32 (5): 5615 - 5627, September 2018.</li>
+  <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "Setpoint Tracking with Partially Observed Loads." <i>Power Systems, IEEE Transactions on</i>, 32 (5): 5615-5627, September 2018.</li>
 
   <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "The Multi-armed Bandit with Stochastic Plays." <i>Automatic Control, IEEE Transactions on</i>, 63 (7): 2280-2286, July 2018.</li>
 
@@ -29,7 +29,7 @@ author_profile: true
     
   <li> Amr Mohamed, <b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "Dispatching Thermostatically Controlled Loads for Frequency Regulation Using Adversarial Multi-armed Bandits." <i>Electrical Power and Energy Conference (EPEC), 2017 IEEE</i>, October 2017.</li>
   
-  <li> <b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "Online Convex Optimization for Demand Response." <i>X Bulk Power Systems Dynamics and Control Symposium, IREP’2017 Symposium.</i>, August 2017. 
+  <li> <b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "Online Convex Optimization for Demand Response." <i>X Bulk Power Systems Dynamics and Control Symposium, IREP’2017 Symposium.</i>, August 2017. </li>
 
   <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "Learning to Shift Thermostatically Controlled Loads."  <i>Proceedings of the 50th Hawaii International Conference on System Sciences</i>, January 2017. </li>  
 
@@ -37,3 +37,12 @@ author_profile: true
 
 </ol>
 
+<h2>Seminar and talks</h2>
+
+<ul style="list-style-type:circle;">
+
+<li><i>A Second-order Cone Model of AC--DC Transmission Expansion Planning</i>. Canadian Operational Research Society 61<sup>st</sup> Annual Conference, Saskatoon, SK. May 2019. </li>
+
+<li><i>Online Convex Optimization for Demand Response in Power Systems</i>. Conference on Information Sciences and Systems, Johns Hopkins University. Baltimore, MD, March 2019. </li>
+
+</ul>  
