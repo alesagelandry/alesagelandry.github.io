@@ -35,3 +35,11 @@ author_profile: true
   <li>Sébastien Loranger, <b>Antoine Lesage-Landry</b>, Elton Soares de Lima Filho, Galina Nemova, Noelio O. Dantas, Paulo C. Morais, Raman Kashyap. "Spectroscopic and life-time measurements of quantum dot doped glass for optical refrigeration: A feasibility study." <i>SPIE OPTO. International Society for Optics and Photonics</i>, February 2013. </li>  
 
 </ol>
+
+<h2>Seminar and talks</h2>
+
+<ul>
+
+<li><i>A Second-order Cone Model of AC--DC Transmission Expansion Planning</i>. Canadian Operational Research Society 61<sup>st</sup> Annual Conference, Saskatoon, SK. May 2019. </li>
+
+</ul>  
