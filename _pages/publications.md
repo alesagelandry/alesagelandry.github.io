@@ -39,7 +39,7 @@ author_profile: true
 
 <h2>Seminar and talks</h2>
 
-<ul style="list-style-type:circle;">
+<ul style="list-style-type:disc;">
 
 <li><i>A Second-order Cone Model of AC--DC Transmission Expansion Planning</i>. Canadian Operational Research Society 61<sup>st</sup> Annual Conference, Saskatoon, SK. May 2019. </li>
 
