@@ -37,7 +37,7 @@ author_profile: true
 
 </ol>
 
-<h2>Seminar and talks</h2>
+<h2>Seminars and talks</h2>
 
 <ul style="list-style-type:disc;">
 
