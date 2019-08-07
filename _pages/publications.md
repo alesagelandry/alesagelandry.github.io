@@ -8,7 +8,7 @@ author_profile: true
 
 <ol reversed='reversed'>
   
-  <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "A Second-order Cone Model of Transmission Planning with Alternating   and Direct Current Lines." <i>European Journal of Operational Research</i>. Under review, February 2019. </li>  
+  <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "A Second-order Cone Model of Transmission Planning with Alternating   and Direct Current Lines." <i>European Journal of Operational Research</i>. To be published. 2019. </li>  
 
   <li><b>Antoine Lesage-Landry</b>, Han Wang, Iman Shames, Pierluigi Mancarella and Joshua A. Taylor. "Online Convex Optimization of Multi-energy Building-to-grid Ancillary Services." <i>Control Systems Technology, IEEE Transactions on</i>. Under review, December 2018. </li>
 
