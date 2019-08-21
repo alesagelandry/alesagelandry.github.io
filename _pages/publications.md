@@ -8,6 +8,8 @@ author_profile: true
 
 <ol reversed='reversed'>
   
+  <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Iman Shames. Second-order Online Nonconvex Optimization. <i>Automatic Control, IEEE Transactions on</i>. Submitted, August 2019. </li>
+  
   <li> Olivier Ouellette, <b>Antoine Lesage-Landry</b>, Benjamin Scheffel, Sjoerd Hoogland, F. Pelayo Garcia de Arquer, and Edward H. Sargent. Spatial Collection in Colloidal Quantum Dot Solar Cells. <i>Advanced Materials</i>. Submitted, August 2019.</li>
   
   <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "A Second-order Cone Model of Transmission Planning with Alternating   and Direct Current Lines." <i>European Journal of Operational Research</i>. To be published, August 2019. </li>  
