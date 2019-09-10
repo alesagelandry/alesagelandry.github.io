@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 
-<a href="alesagelandry.github.io/CV_ALesageLandry.pdf" target="_blank">pdf</a>
+
+[pdf](http://alesagelandry.github.io/CV_ALesageLandry.pdf)
