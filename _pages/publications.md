@@ -17,7 +17,7 @@ author_profile: true
   <li><b>Antoine Lesage-Landry</b>, Iman Shames and Joshua A. Taylor. "Predictive Online Convex Optimization." <i>Automatica</i>. Under review, September 2018. (<a href="https://arxiv.org/abs/1905.06263">arXiv</a>)</li>
     <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "A Second-order Cone Model of Transmission Planning with Alternating   and Direct Current Lines." <i>European Journal of Operational Research</i>. To be published, August 2019. (<a href="https://doi.org/10.1016/j.ejor.2019.08.016">doi</a>) </li> 
   
-  <li><b>Antoine Lesage-Landry</b>, Siyu Chen and Joshua A. Taylor. "Estimating the Frequency Coupling Matrix from Network Measurements". <i>Control of Network Systems, IEEE Transactions on</i>, To be published. Auguest 2019. (<a href="https://doi.org/10.1109/TCNS.2019.2940265">doi</a>)</li>
+  <li><b>Antoine Lesage-Landry</b>, Siyu Chen and Joshua A. Taylor. "Estimating the Frequency Coupling Matrix from Network Measurements". <i>Control of Network Systems, IEEE Transactions on</i>. To be published. Auguest 2019. (<a href="https://doi.org/10.1109/TCNS.2019.2940265">doi</a>)</li>
 
   <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "Setpoint Tracking with Partially Observed Loads." <i>Power Systems, IEEE Transactions on</i>, 32 (5): 5615-5627, September 2018. (<a href="https://doi.org/10.1109/TPWRS.2018.2804353">doi</a>)</li>
 
