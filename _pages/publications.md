@@ -48,7 +48,7 @@ author_profile: true
 
 <li><i>Online Convex Optimization for Demand Response in Power Systems</i>. Conference on Information Sciences and Systems, Johns Hopkins University. Baltimore, MD, March 2019. </li>
 
-<li><i>Renewable Integration and Demand Response</i>. ECE1476 -- LEDs and Solar Cells, University of Toronto, Toronto, ON. November 2018. </li>
+<li><i>Renewable Integration and Demand Response</i>. ECE1476 - LEDs and Solar Cells, University of Toronto, Toronto, ON. November 2018. </li>
 
 <li><i>Online Learning for Demand Response</i>. The University of Melbourne, Australia, February 2018.</li>
 
