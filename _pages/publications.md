@@ -21,7 +21,7 @@ author_profile: true
 
   <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "Setpoint Tracking with Partially Observed Loads." <i>Power Systems, IEEE Transactions on</i>, 32 (5): 5615-5627, September 2018.</li>
 
-  <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "The Multi-armed Bandit with Stochastic Plays." <i>Automatic Control, IEEE Transactions on</i>, 63 (7): 2280-2286, July 2018.</li>
+  <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "The Multi-armed Bandit with Stochastic Plays." <i>Automatic Control, IEEE Transactions on</i>, 63 (7): 2280-2286, July 2018. (<a href="doi.org/10.1109/TPWRS.2018.2804353">doi</a>)</li>
 
 </ol>
 
