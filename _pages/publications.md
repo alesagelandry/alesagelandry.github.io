@@ -14,7 +14,7 @@ author_profile: true
   
   <li><b>Antoine Lesage-Landry</b>, Iman Shames and Joshua A. Taylor. "Predictive Online Convex Optimization." <i>Automatica</i>. Under review, September 2018. (<a href="https://arxiv.org/abs/1905.06263">arXiv</a>)</li>
   
-  <li><b>Antoine Lesage-Landry</b>, Han Wang, Iman Shames, Pierluigi Mancarella and Joshua A. Taylor. "Online Convex Optimization of Multi-energy Building-to-grid Ancillary Services." To appear in <i>Control Systems Technology, IEEE Transactions on</i>. September 2019. </li>
+  <li><b>Antoine Lesage-Landry</b>, Han Wang, Iman Shames, Pierluigi Mancarella and Joshua A. Taylor. "Online Convex Optimization of Multi-energy Building-to-grid Ancillary Services." To appear in <i>Control Systems Technology, IEEE Transactions on</i>. September 2019. (<a href="https://doi.org/10.1109/TCST.2019.2944328">doi</a>)</li>
   
   <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "A Second-order Cone Model of Transmission Planning with Alternating   and Direct Current Lines." To appear in <i>European Journal of Operational Research</i>. August 2019. (<a href="https://doi.org/10.1016/j.ejor.2019.08.016">doi</a>) </li> 
   
