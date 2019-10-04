@@ -8,9 +8,9 @@ author_profile: true
 
 <ol reversed='reversed'>
   
-  <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Iman Shames. Second-order Online Nonconvex Optimization. <i>Automatic Control, IEEE Transactions on</i>. Under review, August 2019. </li>
+  <li> Olivier Ouellette, <b>Antoine Lesage-Landry</b>, Benjamin Scheffel, Sjoerd Hoogland, F. Pelayo Garcia de Arquer, and Edward H. Sargent. Spatial Collection in Colloidal Quantum Dot Solar Cells. <i>Advanced Functional Materials</i>. Under review, October 2019.</li> 
   
-  <li> Olivier Ouellette, <b>Antoine Lesage-Landry</b>, Benjamin Scheffel, Sjoerd Hoogland, F. Pelayo Garcia de Arquer, and Edward H. Sargent. Spatial Collection in Colloidal Quantum Dot Solar Cells. <i>Advanced Materials</i>. Under review, August 2019.</li> 
+  <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Iman Shames. Second-order Online Nonconvex Optimization. <i>Automatic Control, IEEE Transactions on</i>. Under review, August 2019. </li>
   
   <li><b>Antoine Lesage-Landry</b>, Iman Shames and Joshua A. Taylor. "Predictive Online Convex Optimization." <i>Automatica</i>. Under review, September 2018. (<a href="https://arxiv.org/abs/1905.06263">arXiv</a>)</li>
   
