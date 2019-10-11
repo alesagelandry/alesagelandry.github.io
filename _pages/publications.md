@@ -16,9 +16,9 @@ author_profile: true
   
   <li><b>Antoine Lesage-Landry</b>, Han Wang, Iman Shames, Pierluigi Mancarella and Joshua A. Taylor. "Online Convex Optimization of Multi-energy Building-to-grid Ancillary Services." to appear in <i>Control Systems Technology, IEEE Transactions on</i>. September 2019. (<a href="https://doi.org/10.1109/TCST.2019.2944328">doi</a>)</li>
   
-  <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "A Second-order Cone Model of Transmission Planning with Alternating   and Direct Current Lines," to appear in <i>European Journal of Operational Research</i>. August 2019. (<a href="https://doi.org/10.1016/j.ejor.2019.08.016">doi</a>) </li> 
+  <li><b>Antoine Lesage-Landry</b>, Siyu Chen and Joshua A. Taylor. "Estimating the Frequency Coupling Matrix from Network Measurements," to appear in <i>Control of Network Systems, IEEE Transactions on</i>. August 2019. (<a href="https://doi.org/10.1109/TCNS.2019.2940265">doi</a>)</li>
   
-  <li><b>Antoine Lesage-Landry</b>, Siyu Chen and Joshua A. Taylor. "Estimating the Frequency Coupling Matrix from Network Measurements," to appear in <i>Control of Network Systems, IEEE Transactions on</i>. Auguest 2019. (<a href="https://doi.org/10.1109/TCNS.2019.2940265">doi</a>)</li>
+  <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "A Second-order Cone Model of Transmission Planning with Alternating   and Direct Current Lines," <i>European Journal of Operational Research</i>, 281 (1): 174-185, February 2020. (<a href="https://doi.org/10.1016/j.ejor.2019.08.016">doi</a>) </li>   
 
   <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "Setpoint Tracking with Partially Observed Loads." <i>Power Systems, IEEE Transactions on</i>, 32 (5): 5615-5627, September 2018. (<a href="https://doi.org/10.1109/TPWRS.2018.2804353">doi</a>)</li>
 
