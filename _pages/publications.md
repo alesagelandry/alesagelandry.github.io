@@ -6,15 +6,15 @@ author_profile: true
 ---
 <h2>Journal articles </h2>
 
-<ol reversed='reversed'>
-  
-  <li> Olivier Ouellette, <b>Antoine Lesage-Landry</b>, Benjamin Scheffel, Sjoerd Hoogland, F. Pelayo Garcia de Arquer, and Edward H. Sargent. "Spatial Collection in Colloidal Quantum Dot Solar Cells," <i>Advanced Functional Materials</i>. Under review, October 2019.</li> 
+<ol reversed='reversed'> 
   
   <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Iman Shames. "Second-order Online Nonconvex Optimization," <i>Automatic Control, IEEE Transactions on</i>. Under review, August 2019. </li>
   
   <li><b>Antoine Lesage-Landry</b>, Iman Shames and Joshua A. Taylor. "Predictive Online Convex Optimization," <i>Automatica</i>. Under review, September 2018. (<a href="https://arxiv.org/abs/1905.06263">arXiv</a>)</li>
   
-  <li><b>Antoine Lesage-Landry</b>, Han Wang, Iman Shames, Pierluigi Mancarella and Joshua A. Taylor. "Online Convex Optimization of Multi-energy Building-to-grid Ancillary Services." to appear in <i>Control Systems Technology, IEEE Transactions on</i>. September 2019. (<a href="https://doi.org/10.1109/TCST.2019.2944328">doi</a>)</li>
+  <li> Olivier Ouellette, <b>Antoine Lesage-Landry</b>, Benjamin Scheffel, Sjoerd Hoogland, F. Pelayo Garcia de Arquer, and Edward H. Sargent. "Spatial Collection in Colloidal Quantum Dot Solar Cells," to appear in <i>Advanced Functional Materials</i>. October 2019.</li>
+  
+  <li><b>Antoine Lesage-Landry</b>, Han Wang, Iman Shames, Pierluigi Mancarella and Joshua A. Taylor. "Online Convex Optimization of Multi-energy Building-to-grid Ancillary Services," to appear in <i>Control Systems Technology, IEEE Transactions on</i>. September 2019. (<a href="https://doi.org/10.1109/TCST.2019.2944328">doi</a>)</li>
   
   <li><b>Antoine Lesage-Landry</b>, Siyu Chen and Joshua A. Taylor. "Estimating the Frequency Coupling Matrix from Network Measurements," to appear in <i>Control of Network Systems, IEEE Transactions on</i>. August 2019. (<a href="https://doi.org/10.1109/TCNS.2019.2940265">doi</a>)</li>
   
