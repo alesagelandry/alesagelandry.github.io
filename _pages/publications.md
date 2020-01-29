@@ -8,7 +8,7 @@ author_profile: true
 
 <ol reversed='reversed'> 
   
-  <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Iman Shames. "Second-order Online Nonconvex Optimization," <i>Automatic Control, IEEE Transactions on</i>. Under review, August 2019. </li>
+  <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Iman Shames. "Second-order Online Nonconvex Optimization," <i>Automatic Control, IEEE Transactions on</i>. Under review, August 2019. (<a href="https://arxiv.org/abs/2001.10114">arXiv</a>)</li>
   
   <li><b>Antoine Lesage-Landry</b>, Iman Shames, and Joshua A. Taylor. "Predictive Online Convex Optimization," <i>Automatica</i>, 113. March 2020. (<a href="https://doi.org/10.1016/j.automatica.2019.108771">doi</a>)</li>
   
