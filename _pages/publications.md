@@ -8,7 +8,7 @@ author_profile: true
 
 <ol reversed='reversed'> 
   
-  <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Duncan S. Callaway. "Online Convex Optimization with Binary Constraints," <i>Automatic Control, IEEE Transactions on</i>. Under review, May 2020. (<a href="https://arxiv.org/abs/2001.10114">arXiv</a>)</li>
+  <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Duncan S. Callaway. "Online Convex Optimization with Binary Constraints," <i>Automatic Control, IEEE Transactions on</i>. Under review, May 2020. (<a href="https://arxiv.org/abs/2005.02274">arXiv</a>)</li>
   
   <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Iman Shames. "Second-order Online Nonconvex Optimization," <i>Automatic Control, IEEE Transactions on</i>. Under review, August 2019. (<a href="https://arxiv.org/abs/2001.10114">arXiv</a>)</li>
   
