@@ -12,7 +12,7 @@ author_profile: true
   
   <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Iman Shames. "Second-order Online Nonconvex Optimization," <i>Automatic Control, IEEE Transactions on</i>. Under review, August 2019. (<a href="https://arxiv.org/abs/2001.10114">arXiv</a>)</li>
   
-  <li> <b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Dynamic and Distributed Online Convex Optimization for Demand Response of Commercial Buildings," to appear in <i>IEEE Control Systems Letters</i>. April 2020. (<a href="https://doi.org/10.1109/LCSYS.2020.2989110">doi</a>)</li>
+  <li> <b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Dynamic and Distributed Online Convex Optimization for Demand Response of Commercial Buildings," to appear in <i>IEEE Control Systems Letters</i>., 4 (3): 632-637, July 2020. (<a href="https://doi.org/10.1109/LCSYS.2020.2989110">doi</a>)</li>
   
   <li><b>Antoine Lesage-Landry</b>, Iman Shames, and Joshua A. Taylor. "Predictive Online Convex Optimization," <i>Automatica</i>, 113. March 2020. (<a href="https://doi.org/10.1016/j.automatica.2019.108771">doi</a>)</li>
   
