@@ -14,7 +14,7 @@ author_profile: true
   
   <li> <b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Dynamic and Distributed Online Convex Optimization for Demand Response of Commercial Buildings," to appear in <i>IEEE Control Systems Letters</i>, 4 (3): 632-637, July 2020. (<a href="https://doi.org/10.1109/LCSYS.2020.2989110">doi</a>)</li>
   
-  <li><b>Antoine Lesage-Landry</b>, Iman Shames, and Joshua A. Taylor. "Predictive Online Convex Optimization," <i>Automatica</i>, 113. March 2020. (<a href="https://doi.org/10.1016/j.automatica.2019.108771">doi</a>)</li>
+  <li><b>Antoine Lesage-Landry</b>, Iman Shames, and Joshua A. Taylor. "Predictive Online Convex Optimization," <i>Automatica</i>, 113: 108771, March 2020. (<a href="https://doi.org/10.1016/j.automatica.2019.108771">doi</a>)</li>
   
   <li> Olivier Ouellette, <b>Antoine Lesage-Landry</b>, Benjamin Scheffel, Sjoerd Hoogland, F. Pelayo Garcia de Arquer, and Edward H. Sargent. "Spatial Collection in Colloidal Quantum Dot Solar Cells," to appear in <i>Advanced Functional Materials</i>. October 2019. (<a href="https://doi.org/10.1002/adfm.201908200">doi</a>)</li>
   
