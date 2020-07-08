@@ -14,9 +14,9 @@ author_profile: true
   
   <li><b>Antoine Lesage-Landry</b>, Han Wang, Iman Shames, Pierluigi Mancarella, and Joshua A. Taylor. "Online Convex Optimization of Multi-energy Building-to-grid Ancillary Services," to appear in <i>Control Systems Technology, IEEE Transactions on</i>. September 2019. (<a href="https://doi.org/10.1109/TCST.2019.2944328">doi</a>)</li>
   
-  <li><b>Antoine Lesage-Landry</b>, Siyu Chen, and Joshua A. Taylor. "Estimating the Frequency Coupling Matrix from Network Measurements," <i>Control of Network Systems, IEEE Transactions on</i>, 7 (2): 724-733. June 2020. (<a href="https://doi.org/10.1109/TCNS.2019.2940265">doi</a>)</li>
-  
   <li> <b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Dynamic and Distributed Online Convex Optimization for Demand Response of Commercial Buildings," to appear in <i>IEEE Control Systems Letters</i>, 4 (3): 632-637, July 2020. (<a href="https://doi.org/10.1109/LCSYS.2020.2989110">doi</a>)</li>
+  
+  <li><b>Antoine Lesage-Landry</b>, Siyu Chen, and Joshua A. Taylor. "Estimating the Frequency Coupling Matrix from Network Measurements," <i>Control of Network Systems, IEEE Transactions on</i>, 7 (2): 724-733. June 2020. (<a href="https://doi.org/10.1109/TCNS.2019.2940265">doi</a>)</li>
   
   <li><b>Antoine Lesage-Landry</b>, Iman Shames, and Joshua A. Taylor. "Predictive Online Convex Optimization," <i>Automatica</i>, 113: 108771, March 2020. (<a href="https://doi.org/10.1016/j.automatica.2019.108771">doi</a>)</li>
   
