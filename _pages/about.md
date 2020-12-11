@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About me"
+title: "Antoine Lesage-Landry"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+alesagelandry [ at ] berkeley.edu
+
 
 I received the B.Eng. degree in Engineering Physics from École Polytechnique de Montréal, QC, Canada, in 2015, and the Ph.D. degree in Electrical Engineering from the University of Toronto, ON, Canada, in 2019. 
 
