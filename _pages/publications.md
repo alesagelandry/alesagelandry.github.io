@@ -49,6 +49,8 @@ author_profile: true
 
 <ul style="list-style-type:disc;">
 
+<li><i>Dynamic and Distributed Online Convex Optimization for Demand Response of Commercial Buildings</i>. 59<sup>th</sup> IEEE Conference on Decision and Control (CDC), online. December 2020. </li>
+
 <li><i>Online Convex Optimization with Binary Constraints for Demand Response</i>. 2020 INFORMS Annual Meeting, online. November 2020. Invited. </li>
 
 <li><i>Predictive Online Convex Optimization for Demand Response</i>. 2019 INFORMS Annual Meeting, Seattle, WA. October 2019. Invited. </li>
