@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-antoine.lesage-landry [ at ] polymtl.ca
-Office: A-343.14
-École Polytechnique de Montréal
-C.P. 6079, succursale Centre-ville
-Montréal, Québec, Canada
-H3C 3A7
+antoine.lesage-landry [ at ] polymtl.ca<br />
+Office: A-343.14<br />
+École Polytechnique de Montréal<br />
+C.P. 6079, succursale Centre-ville<br />
+Montréal, Québec, Canada<br />
+H3C 3A7<br />
 
 
 I am an Assistant Professor in the Department of Electrical Engineering at Polytechnique Montréal, QC, Canada. I received the B.Eng. degree in Engineering Physics from Polytechnique Montréal, QC, Canada, in 2015, and the Ph.D. degree in Electrical Engineering from the University of Toronto, ON, Canada, in 2019.
