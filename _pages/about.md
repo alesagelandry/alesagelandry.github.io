@@ -19,3 +19,5 @@ I am an Assistant Professor in the Department of Electrical Engineering at Polyt
 From 2019 to 2020, I was a Postdoctoral Scholar in the Energy & Resources Group at the University of California, Berkeley, CA, USA. My research interests include optimization, online learning and their application to power system with renewable generation.
 
 I am currently looking for new graduate students. Students interested in pursing an M.A.Sc or a Ph.D. under my supervision are welcome to contact me. Please include a brief bio, your CV, and recent transcripts.
+
+I am also specifically looking for a Ph.D. student for the following [research project](http://alesagelandry.github.io/phd_dr_optimization_description_eng.pdf) to be done in collaboration with the Department of Mathematics and Industrial Engineering at Polytechnique Montréal.
