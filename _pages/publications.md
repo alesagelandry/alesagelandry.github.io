@@ -50,6 +50,8 @@ author_profile: true
 <h2>Seminars and talks</h2>
 
 <ul style="list-style-type:disc;">
+  
+<li><i>Real-Time Decision-making for Demand Response Under Uncertainty</i>. GERAD Webinar. Montréal, QC, online, March 2021. </li>   
 
 <li><i>Dynamic and Distributed Online Convex Optimization for Demand Response of Commercial Buildings</i>. 59<sup>th</sup> IEEE Conference on Decision and Control (CDC), online. December 2020. </li>
 
