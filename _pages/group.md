@@ -5,7 +5,6 @@ permalink: /group/
 author_profile: true
 redirect_from: 
   - /group/
-  - /group.html
 ---
 
 <h3>Curent group members</h3>
