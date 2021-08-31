@@ -4,7 +4,7 @@ title: "Group"
 permalink: /group/
 author_profile: true
 redirect_from: 
-  - /group/
+  - /group
 ---
 
 <h3>Curent group members</h3>
@@ -19,5 +19,4 @@ redirect_from:
 
 </ul>  
 
-<!--<h3>Former group members</h3> --\>
 
