@@ -9,7 +9,7 @@ redirect_from:
 ---
 antoine.lesage-landry [ at ] polymtl.ca<br />
 Polytechnique Montréal<br />
-Pavillon Principal, A-429.05 <br />
+Pavillon Principal, A-429.5 <br />
 2500 de Polytechnique road<br />
 Montréal, Québec, Canada<br />
 H3T 1J4<br />
