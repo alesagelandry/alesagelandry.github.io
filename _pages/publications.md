@@ -60,7 +60,7 @@ Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conferenc
 
 <ul style="list-style-type:disc;">
 
-<li><i>Batch Reinforcement Learning for Network-Safe Demand Response</i>. Power Systems Laboratory Seminar at ETH Zürich, Zürich, Switzerland/online. Mars 2022. </li>
+<li><i>Batch Reinforcement Learning for Network-Safe Demand Response</i>. Power Systems Laboratory Seminar at ETH Zürich, Zürich, Switzerland/online. March 2022. </li>
   
 <li><i>Real-time Decision-making for Demand Response</i>. Energy Seminar: Joint Mechanical & Aerospace Engineering Dept and Center for Energy Research at the University of California, San Diego, San Diego CA/online. November 2021. Invited. </li>  
   
