@@ -8,6 +8,9 @@ author_profile: true
 
 <ol reversed='reversed'> 
   
+  
+  <li><b>Antoine Lesage-Landry</b>, Félix Pellerin, Joshua A. Taylor, and Duncan S. Callaway. "Optimally Scheduling Public Safety Power Shutoffs," <i>INFORMS Stochastic Systems</i>. Under review, March 2022. (<a href="https://arxiv.org/abs/2203.02861">arXiv</a>)</li>
+  
   <li><b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Approximate Multi-Agent Fitted Q-Iteration," <i>Systems & Control Letters</i>. Under review, July 2021. (<a href="https://arxiv.org/abs/2104.09343">arXiv</a>)</li>
   
   <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Duncan S. Callaway. "Online Convex Optimization with Binary Constraints," to appear in <i>IEEE Transactions on Automatic Control</i>. February 2021. (<a href="https://doi.org/10.1109/TAC.2021.3061625">doi</a>)</li>
