@@ -42,7 +42,7 @@ author_profile: true
   <li> <b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Batch Reinforcement Learning for Network-Safe Demand
 Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conference (PSCC 2022)</i>, accepted, February 2022. (<a href="https://www.gerad.ca/en/papers/G-2021-55">preprint</a>)</li>
   
-  <li> Vincent Mai, Tianyu Zhang, and <b>Antoine Lesage-Landry<\b>. "Multi-agent Reinforcement Learning for Renewable Integration in the Electric Power Grid," <i>Tackling Climate Change with Machine Learning: workshop at NeurIPS 2021<\i>, online, December 2021. (<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)</li>
+  <li> Vincent Mai, Tianyu Zhang, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Renewable Integration in the Electric Power Grid," <i>Tackling Climate Change with Machine Learning: workshop at NeurIPS 2021<\i>, online, December 2021. (<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)</li>
   
   <li> Rodrigo Henriquez, <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, Daniel Olivares, and Matias Negrete-Pincetic. "Managing Load Contract Restrictions with Online Learning," <i>, IEEE Global Conference on Signal and Information Processing (GlobalSIP)</i>, November 2017. (<a href="https://doi.org/10.1109/GlobalSIP.2017.8309118">doi</a>)</li>
     
