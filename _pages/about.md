@@ -20,4 +20,4 @@ From 2019 to 2020, I was a Postdoctoral Scholar in the Energy & Resources Group 
 
 I am currently looking for new graduate students. Students interested in pursing an M.A.Sc or a Ph.D. under my supervision are welcome to contact me. Please include a brief bio, your CV, and recent transcripts.
 
-I am also specifically looking for a Ph.D. student for the following [research project](http://alesagelandry.github.io/MANA_OPF_eng.pdf) to be done in collaboration with my colleague [Prof. Mahseredjian](https://www.polymtl.ca/expertises/en/mahseredjian-jean). For more information on how to apply, please see the research proposal.
+<!--I am also specifically looking for a Ph.D. student for the following [research project](http://alesagelandry.github.io/MANA_OPF_eng.pdf) to be done in collaboration with my colleague [Prof. Mahseredjian](https://www.polymtl.ca/expertises/en/mahseredjian-jean). For more information on how to apply, please see the research proposal.-->
