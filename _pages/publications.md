@@ -44,7 +44,7 @@ Response in Unknown Electric Grids," <i>Electric Power Systems Research</i>, 202
 
 <ol reversed='reversed'>
   
-    <li> Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Hadi Nekoei, Liam Paull, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Fast-Timescale Demand Response of Residential Loads," <i>22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</i>. Under review. May 2023. <!--(<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)--></li>
+  <li> Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Hadi Nekoei, Liam Paull, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Fast-Timescale Demand Response of Residential Loads," <i>22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</i>. Under review. May 2023. <!--(<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)--></li>
   
   <li> Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Jorge Montalvo, Liam Paull, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Fast-Timescale Demand Response," <i>Reinforcement Learning for Real Life Workshop @ NeurIPS 2022</i>. Accepted. December 2022. <!--(<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)--></li>
   
