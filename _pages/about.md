@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Assistant Professor, Department of Electrical Engineering, Polytechnique Montréal<br />
-Member, Group for Research in Decision Analysis (GERAD)<br />
-Associate Academic Member, Mila - Quebec's Artificial Intelligence Institute<br />
+Assistant Professor, [Department of Electrical Engineering](https://www.polymtl.ca/expertises/en/lesage-landry-antoine), [Polytechnique Montréal](https://polymtl.ca/en)<br />
+Member, [Group for Research in Decision Analysis (GERAD)](https://www.gerad.ca/en/people/antoine-lesage-landry)<br />
+Associate Academic Member, [Mila - Quebec's Artificial Intelligence Institute](https://mila.quebec/)<br />
 <br />
 
 antoine.lesage-landry [ at ] polymtl.ca<br />
