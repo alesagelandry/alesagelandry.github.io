@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Antoine Lesage-Landry<br />
 Assistant Professor, Department of Electrical Engineering, Polytechnique Montréal<br />
 Member, Group for Research in Decision Analysis (GERAD)<br />
 Associate Academic Member, Mila - Quebec's Artificial Intelligence Institute<br />
+<br />
 
 antoine.lesage-landry [ at ] polymtl.ca<br />
 Polytechnique Montréal<br />
