@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Antoine Lesage-Landry
+Assistant Professor, Department of Electrical Engineering, Polytechnique Montréal
+Member, Group for Research in Decision Analysis (GERAD)
+Associate Academic Member, Mila - Quebec's Artificial Intelligence Institute
+
 antoine.lesage-landry [ at ] polymtl.ca<br />
 Polytechnique Montréal<br />
 Pavillon Principal, A-429.5 <br />
@@ -22,4 +27,4 @@ I am currently looking for new graduate students. Students interested in pursing
 
 <!-- I am also specifically looking for a postdoctoral fellow for the following [research project](http://alesagelandry.github.io/ProjDesc_AlliancePDF_eng.pdf) to be done in collaboration with my colleagues [Prof. Dagdougi](https://www.polymtl.ca/expertises/en/dagdougui-hanane), [Prof. Audet](https://www.polymtl.ca/expertises/en/audet-charles), and [Prof. Le Digabel](https://www.polymtl.ca/expertises/en/le-digabel-sebastien). For more information on how to apply, please see the research proposal. -->
 
-I am also specifically looking for a PhD student for the following [research project](http://alesagelandry.github.io/PhD_NetworkAccess.pdf) in the field of communication systems to be done in collaboration with my colleagues [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/en/karabulut-kurt-gunes). For more information on how to apply, please see the research proposal. 
+<!-- I am also specifically looking for a PhD student for the following [research project](http://alesagelandry.github.io/PhD_NetworkAccess.pdf) in the field of communication systems to be done in collaboration with my colleagues [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/en/karabulut-kurt-gunes). For more information on how to apply, please see the research proposal. -->
