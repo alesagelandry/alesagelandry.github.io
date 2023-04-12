@@ -14,10 +14,10 @@ author_profile: true
   
 <li><b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Approximate Multi-Agent Fitted Q-Iteration," <i>Systems & Control Letters</i>. Under review, July 2021. (<a href="https://arxiv.org/abs/2104.09343">arXiv</a>)</li>
 
+<li>Feng Li, Ilhan Kocar, and <b>Antoine Lesage-Landry</b>. "A Rapid Method for Impact Analysis of Grid-edge Technologies on Power Distribution Networks," <i>IEEE Transactions on Power Systems</i>. March 2023. (<a href="https://doi.org/10.1109/TPWRS.2023.3262421">doi</a>)</li>
+
 <li>Jean-Luc Lupien and <b>Antoine Lesage-Landry</b>. "An Online Newton's Method with Linear Time-varying Equality
 Constraints," <i>IEEE Control Systems Letters</i>, 6: 1423-1428. Février 2023. (<a href="https://doi.org/10.1109/LCSYS.2023.3247359">doi</a>)</li> 
-
-<li>Feng Li, Ilhan Kocar, and <b>Antoine Lesage-Landry</b>. "A Rapid Method for Impact Analysis of Grid-edge Technologies on Power Distribution Networks," <i>IEEE Transactions on Power Systems</i>. March 2023. (<a href="https://doi.org/10.1109/TPWRS.2023.3262421">doi</a>)</li>
   
 <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Duncan S. Callaway. "Online Convex Optimization with Binary Constraints," <i>IEEE Transactions on Automatic Control</i>, 66 (12): 6164-6170. December 2021. (<a href="https://doi.org/10.1109/TAC.2021.3061625">doi</a>)</li>
   
