@@ -29,7 +29,7 @@ From 2019 to 2020, I was a Postdoctoral Scholar in the Energy & Resources Group 
 
 <!-- I am also specifically looking for a PhD student for the following [research project](http://alesagelandry.github.io/PhD_NetworkAccess.pdf) in the field of communication systems to be done in collaboration with my colleagues [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/en/karabulut-kurt-gunes). For more information on how to apply, please see the research proposal. -->
 
-I am currently looking for two new Ph.D. students for the following projects:
+I am currently looking for new Ph.D. students for the following projects:
 <ol>
 <li><a href="http://alesagelandry.github.io/PhD_OnlineOptimization_Eng.pdf">Online Optimization for Power Systems</a></li>
 <li>
