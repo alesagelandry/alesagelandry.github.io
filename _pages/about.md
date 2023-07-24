@@ -28,6 +28,7 @@ I am currently looking for two new Ph.D. students for the following projects:
 <li><a href="http://alesagelandry.github.io/PhD_OnlineOptimization_Eng.pdf">Online Optimization for Power Systems</a>
 <li>
 <a href="http://alesagelandry.github.io/PhD_MLforPowerSystems_Eng.pdf">Machine learning for Power System Dynamics</a> </li>
+
 </ol>
 
 <!--I am currently looking for new graduate students. Students interested in pursing an M.A.Sc or a Ph.D. under my supervision are welcome to contact me. Please include a brief bio, your CV, and recent transcripts.-->
