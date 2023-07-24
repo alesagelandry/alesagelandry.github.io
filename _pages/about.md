@@ -25,8 +25,9 @@ From 2019 to 2020, I was a Postdoctoral Scholar in the Energy & Resources Group 
 
 I am currently looking for two new Ph.D. students for the following projects:
 <ol>
-<li> [Online Optimization for Power Systems](http://alesagelandry.github.io/PhD_OnlineOptimization_Eng.pdf);</li>
-<li> [Machine learning for Power System Dynamics](http://alesagelandry.github.io/PhD_MLforPowerSystems_Eng.pdf).</li>
+<li><a href="http://alesagelandry.github.io/PhD_OnlineOptimization_Eng.pdf">Online Optimization for Power Systems</a>
+<li>
+<a href="http://alesagelandry.github.io/PhD_MLforPowerSystems_Eng.pdf">Machine learning for Power System Dynamics</a> </li>
 </ol>
 
 <!--I am currently looking for new graduate students. Students interested in pursing an M.A.Sc or a Ph.D. under my supervision are welcome to contact me. Please include a brief bio, your CV, and recent transcripts.-->
