@@ -14,7 +14,7 @@ Associate Academic Member, [Mila - Quebec's Artificial Intelligence Institute](h
 
 antoine.lesage-landry [ at ] polymtl.ca<br />
 Polytechnique Montréal<br />
-Pavillon Principal, A-429.5 <br />
+Lassonde Buildings, M-5111 <br />
 2500 de Polytechnique road<br />
 Montréal, Québec, Canada<br />
 H3T 1J4<br />
