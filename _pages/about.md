@@ -32,6 +32,11 @@ From 2019 to 2020, I was a Postdoctoral Scholar in the Energy & Resources Group 
 <!-- I am also specifically looking for a PhD student for the following [research project](http://alesagelandry.github.io/PhD_NetworkAccess.pdf) in the field of communication systems to be done in collaboration with my colleagues [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/en/karabulut-kurt-gunes). For more information on how to apply, please see the research proposal. -->
 
 I am currently looking for new Ph.D. students for the following projects:
+1. [Optimization and learning methods for renewable electric system real-time simulations](http://alesagelandry.github.io/PhD_Simulations_eng.pdf) with my colleagues [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/en/karabulut-kurt-gunes) and [Prof. Berger](https://www.uqar.ca/professeurs/berger-maxime/).
+2. [3D Channel and Network Modeling of Drones for Dense and Harmonious Usage of Spectrum](http://alesagelandry.github.io/PhD_3DH_eng.pdf) with my colleague [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/en/karabulut-kurt-gunes).
+For more information on how to apply, please see the research proposal.
+
+<!--I am currently looking for new Ph.D. students for the following projects:
 <ol>
 <li>[Optimization and learning methods for renewable electric system real-time simulations](http://alesagelandry.github.io/PhD_Simulations_eng.pdf) with my colleagues [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/en/karabulut-kurt-gunes) and [Prof. Berger](https://www.uqar.ca/professeurs/berger-maxime/)</li>
 <!--<li>[3D Channel and Network Modeling of Drones for Dense and Harmonious Usage of Spectrum](http://alesagelandry.github.io/PhD_3DH_eng.pdf) with my colleague [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/en/karabulut-kurt-gunes) </li>
