@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 Associate Professor, [Department of Electrical Engineering](https://www.polymtl.ca/expertises/en/lesage-landry-antoine), [Polytechnique Montréal](https://polymtl.ca/en)<br />
+Adjunct Professor, Department of Mathematics, Engineering, and Computer Science, [Université du Québec à Rimouski](https://www.uqar.ca/luniversite/departements/departement-de-mathematiques-informatique-et-genie/)<br />
+Visiting Associate Professor, [Department of Electric Engineering, Power Electronics Lab](https://pelab.imass.nagoya-u.ac.jp/member-english/), [Nagoya University]https://en.nagoya-u.ac.jp/)<br />
 Member, [Group for Research in Decision Analysis (GERAD)](https://www.gerad.ca/en/people/antoine-lesage-landry)<br />
 Associate Academic Member, [Mila - Quebec's Artificial Intelligence Institute](https://mila.quebec/en/person/antoine-lesage-landry/)<br />
 <br />
@@ -33,7 +35,7 @@ From 2019 to 2020, I was a Postdoctoral Scholar in the Energy & Resources Group 
 
 I am currently looking for new Ph.D. students for the following projects:
 1. [Optimization and learning methods for renewable electric system real-time simulations](http://alesagelandry.github.io/PhD_Simulations_eng.pdf) with my colleagues [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/en/karabulut-kurt-gunes) and [Prof. Berger](https://www.uqar.ca/professeurs/berger-maxime/).
-2. [3D Channel and Network Modelling of Drones for Dense and Harmonious Usage of Spectrum](http://alesagelandry.github.io/PhD_3DH_eng.pdf) with my colleague [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/en/karabulut-kurt-gunes).
+<!-- 2. [3D Channel and Network Modelling of Drones for Dense and Harmonious Usage of Spectrum](http://alesagelandry.github.io/PhD_3DH_eng.pdf) with my colleague [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/en/karabulut-kurt-gunes).-->
 
 For more information on how to apply, please see the research proposal.
 
