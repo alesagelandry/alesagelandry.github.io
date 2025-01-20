@@ -9,7 +9,7 @@ redirect_from:
 ---
 Associate Professor, [Department of Electrical Engineering](https://www.polymtl.ca/expertises/en/lesage-landry-antoine), [Polytechnique Montréal](https://polymtl.ca/en)<br />
 Adjunct Professor, Department of Mathematics, Engineering, and Computer Science, [Université du Québec à Rimouski](https://www.uqar.ca/luniversite/departements/departement-de-mathematiques-informatique-et-genie/)<br />
-Visiting Associate Professor, [Department of Electric Engineering, Power Electronics Lab](https://pelab.imass.nagoya-u.ac.jp/member-english/), [Nagoya University]https://en.nagoya-u.ac.jp/)<br />
+Visiting Associate Professor, [Department of Electric Engineering, Power Electronics Lab](https://pelab.imass.nagoya-u.ac.jp/member-english/), [Nagoya University](https://en.nagoya-u.ac.jp/)<br />
 Member, [Group for Research in Decision Analysis (GERAD)](https://www.gerad.ca/en/people/antoine-lesage-landry)<br />
 Associate Academic Member, [Mila - Quebec's Artificial Intelligence Institute](https://mila.quebec/en/person/antoine-lesage-landry/)<br />
 <br />
